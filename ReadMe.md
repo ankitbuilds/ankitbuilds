@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Ankit Mishra, a Software Engineer with 3+ years of experience building responsive web applications. 🚀<br><br>💻 **Tech Stack:** React.js, JavaScript (ES6+), Node.js, Express.js, MongoDB, Redux Toolkit, REST APIs, Tailwind CSS.<br><br>🛠️ Passionate about building scalable MERN stack applications, writing clean code, optimizing performance, and solving real-world problems.<br><br>📚 Always learning, building projects, and exploring new technologies.<br><br>🤝 Open to collaboration and exciting Software Engineer opportunities!
+👋 Hi, I'm Ankit Mishra, a Software Engineer with 3+ years of experience building responsive web applications. 🚀<br><br>💻 **Tech Stack:** HTML, CSS, React.js, JavaScript (ES6+), TypeScript, Node.js, Express.js, MongoDB, Redux Toolkit, REST APIs, Tailwind CSS.<br><br>🛠️ Passionate about building scalable MERN stack applications, writing clean code, optimizing performance, and solving real-world problems.<br><br>📚 Always learning, building projects, and exploring new technologies.<br><br>🤝 Open to collaboration and exciting Software Engineer opportunities!
 
 
 ## 🌐 Socials:
